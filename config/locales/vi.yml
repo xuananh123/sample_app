@@ -1,4 +1,4 @@
-i:
+vi:
   static_pages:
     home:
       home: "Trang chủ"
@@ -27,5 +27,6 @@ i:
   tutorial: "Hướng dẫn Ruby on Rails"
   ruby: "Ruby on Rails"
   ror_sampleapp: "Hướng dẫn ứng dụng mẫu Ruby on Rails"
+  title: "Hướng dẫn ứng dụng mẫu Ruby on Rails"
   english: "Tiếng anh"
-vietnam: "Tiếng việt"
+  vietnam: "Tiếng việt"
