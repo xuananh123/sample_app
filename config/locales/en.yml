@@ -1,10 +1,17 @@
 en:
+  tutorial: "Ruby on Rails Tutorial"
+  ruby: "Ruby on Rails"
+  ror_sampleapp: "Ruby on Rails Tutorial Sample App"
+  title: "Ruby on Rails Tutorial Sample App"
+  english: "English"
+  vietnam: "Vietnamese"
   static_pages:
     home:
-      home: "Home"
-      sample_app: "Sample App"
-      home_pages: "This is the home page for the "
+      home: "home"
+      This_is: "This is the home page for the "
       sample_application: "sample application."
+      Welcome_to: "Welcome to the Sample App"
+      sign_up: "Sign up"
     help:
       help: "Help"
       get_help: "Get help on the Ruby on Rails Tutorial at the "
@@ -20,13 +27,18 @@ en:
       screencast: "screencast series"
       teach: "to teach web development with"
       intro: "This is the sample application for the tutorial."
-    contact:
-      contact: "Contact"
-      contact_at: "Contact at"
-      contact_page: "contact page"
-  tutorial: "Ruby on Rails Tutorial"
-  ruby: "Ruby on Rails"
-  ror_sampleapp: "Ruby on Rails Tutorial Sample App"
-  title: "Ruby on Rails Tutorial Sample App"
-  english: "English"
-  vietnam: "Vietnamese"
+  footer:
+    the: "The Ruby on Rails Tutorial"
+    by: "by Michael Hartl"
+    about: "about"
+    contact: "contact"
+    new: "new"
+  header:
+    sample_app: "SAMPLE APP"
+    home: "Home"
+    help: "Help"
+    log_in: "Login"
+  contact:
+    contact: "Contact"
+    contact_at: "Contact at"
+    contact_page: "contact page"
